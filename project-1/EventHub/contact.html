@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact | EventHub</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Roboto:wght@400;500&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <h2>EventHub</h2>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="events.html">Events</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html" class="active">Contact</a></li>
+            </ul>
+            <button class="login-btn">Login</button>
+            <div class="menu-btn">
+                <i class="fa-solid fa-bars"></i>
+            </div>
+        </nav>
+    </header>
+    <section class="page-header">
+        <h1>Contact Us</h1>
+        <p>
+            We'd love to hear from you.
+        </p>
+    </section>
+
+    <!-- Contact Cards -->
+
+    <section class="contact-info">
+        <div class="contact-card">
+            <i class="fa-solid fa-location-dot"></i>
+            <h3>Address</h3>
+            <p>Hyderabad, Telangana, India</p>
+        </div>
+        <div class="contact-card">
+            <i class="fa-solid fa-phone"></i>
+            <h3>Phone</h3>
+            <p>+91 9876543210</p>
+        </div>
+        <div class="contact-card">
+            <i class="fa-solid fa-envelope"></i>
+            <h3>Email</h3>
+            <p>support@eventhub.com</p>
+        </div>
+
+    </section>
+
+    <!-- Contact Form -->
+
+    <section class="contact-section">
+        <div class="contact-form">
+            <h2>Send us a Message</h2>
+            <form id="contactForm">
+                <input type="text" id="name" placeholder="Your Name" required>
+                <input type="email" id="email" placeholder="Email Address" required>
+                <input type="text" id="subject" placeholder="Subject">
+                <textarea id="message" rows="6" placeholder="Your Message"></textarea>
+                <button type="submit">
+                    Send Message
+                </button>
+            </form>
+        </div>
+        <div class="map">
+            <iframe title="Map of Hyderabad" src="https://www.google.com/maps?q=Hyderabad&output=embed" loading="lazy"
+                aria-label="Map showing location of Hyderabad">
+            </iframe>
+        </div>
+    </section>
+    <footer>
+        <p>
+            © 2026 EventHub | DecodeLabs Project
+        </p>
+    </footer>
+    <script src="js/script.js"></script>
+</body>
+
+</html>
