@@ -170,34 +170,6 @@ Implemented using:
 
 ---
 
-## 📷 Screenshots
-
-### Home Page
-
-*![alt text](<Screenshot 2026-07-22 204818.png>)*
-
----
-
-### Events Page
-
-*![alt text](<Screenshot 2026-07-22 204842.png>)*
-
----
-
-### About Page
-
-*![alt text](<Screenshot 2026-07-22 204910-1.png>)*
-
----
-
-### Contact Page
-
-*![alt text](<Screenshot 2026-07-22 204924.png>)*
-
----
-
----
-
 ## 🎓 Learning Outcomes
 
 Through this project, I gained hands-on experience in:
