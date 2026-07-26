@@ -183,6 +183,43 @@ Through this project, I gained hands-on experience in:
 
 ---
 
+## 📷 Screenshots
+
+### Home Page
+
+<img width="1899" height="1074" alt="Screenshot 2026-07-26 121616" src="https://github.com/user-attachments/assets/958b9ad7-cf4c-4f89-85fd-32e7686fadca" />
+
+<img width="1888" height="1079" alt="Screenshot 2026-07-26 122112" src="https://github.com/user-attachments/assets/44d12018-232a-46d4-bb95-1de896e8b1e8" />
+
+---
+
+### Events Page
+
+<img width="1901" height="1075" alt="Screenshot 2026-07-26 121627" src="https://github.com/user-attachments/assets/3b455092-ca23-4896-8682-418943e323c8" />
+
+<img width="1894" height="970" alt="Screenshot 2026-07-26 122136" src="https://github.com/user-attachments/assets/72a1e287-5b11-438a-99cc-0ca809844198" />
+
+---
+
+### About Page
+
+<img width="1901" height="1072" alt="Screenshot 2026-07-26 121640" src="https://github.com/user-attachments/assets/ebedf80a-7140-4fe6-a03c-6a831c34e10c" />
+
+<img width="1910" height="859" alt="Screenshot 2026-07-26 122152" src="https://github.com/user-attachments/assets/00635bfe-6c77-42c3-856c-231d4abf1c7b" />
+
+
+---
+
+### Contact Page
+
+<img width="1889" height="1075" alt="Screenshot 2026-07-26 121649" src="https://github.com/user-attachments/assets/532bbbee-f9b4-417c-81a5-e9465160f947" />
+
+
+---
+
+---
+
+
 ## 👨‍💻 Developed By
 
 Harshavardhan Reddy Marri
